@@ -1,0 +1,16 @@
+{
+  "name": "@phpforge/plugin-laravel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "author": "Jeidison Farias",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "typescript": "5.9.3"
+  }
+}
